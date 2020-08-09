@@ -23,7 +23,7 @@ email: aleksandarkuzmanoski11@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hello, I am Aleksandar Kuzmanoski from Gostivar, Macedonia.
   This is my personal blog where you can follow my hobbies, work, and research.
-  Currently, I am Data Science Master student at RWTH Aachen.
+  Currently, I am Data Science Master Student at RWTH Aachen.
 baseurl: "alkuzman.github.io" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.coms
 github_username:  alkuzman
