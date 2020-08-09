@@ -1,7 +1,7 @@
 ---
-layout: page
 title: About
-permalink: /about/
+layout: page
+permalink: "/about/"
 ---
 
 Hello, I am Aleksandar Kuzmanoski from Gostivar, Macedonia. 
