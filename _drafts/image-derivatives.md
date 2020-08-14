@@ -179,7 +179,7 @@ Try the function on the given example images and describe your results.
 
 
 ```python
-image = imread_gray({{site.baseurl}}/assets/imgs/'tomatoes.png')
+image = imread_gray('tomatoes.png')
 grad_dx, grad_dy = gauss_derivs(image, sigma=5.0)
 plot_multiple([image, grad_dx, grad_dy], ['Image', 'Derivative in x-direction', 'Derivative in y-direction'])
 ```
