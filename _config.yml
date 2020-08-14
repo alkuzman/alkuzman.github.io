@@ -67,3 +67,7 @@ defaults:
 header_pages:
   - about.markdown
   - donate.md
+
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
